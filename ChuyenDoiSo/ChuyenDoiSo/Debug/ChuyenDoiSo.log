@@ -1,0 +1,14 @@
+﻿  ChuyenDoiSo.cpp
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(84): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(167): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  c:\users\pc\documents\ma nguon c++ tu viet\chuyendoiso\chuyendoiso\chuyendoiso.cpp(36): note: see reference to function template instantiation 'std::string operator *<unsigned int>(const std::string &,const T &)' being compiled
+          with
+          [
+              T=unsigned int
+          ]
+  ChuyenDoiSo.vcxproj -> C:\Users\PC\Documents\ma nguon c++ tu viet\ChuyenDoiSo\Debug\ChuyenDoiSo.exe
